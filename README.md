@@ -1,5 +1,7 @@
 # SATS easter egg hunt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chrisns/easter-egg-hunt.svg)](https://greenkeeper.io/)
+
 I have a 10 year old son, he's doing his (UK) SATS this year, it's also easter, so to give him a challenge I took questions off the 2016 question papers, hid 40 eggs around the house and built this quickly.
 
 **If you see this before Good Friday 2017, please don't tell him where I hid the eggs.**
